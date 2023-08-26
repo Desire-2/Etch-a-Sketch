@@ -1,3 +1,9 @@
+/*
+ * Copyright © 2023 Desire
+ * Licensed under the MIT License.
+ * See LICENSE file in the project root for license information.
+ */
+
 const grid = document.querySelector('.grid');
 const gridSizeInput = document.querySelector('#grid-size');
 const gridValue = document.querySelector('.grid-size');
